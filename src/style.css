@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fff;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+span {
+  padding-left: 1rem;
+}
+
+h2 {
+  font-size: 30px;
+  margin-right: 1rem;
+}
+
+#main {
+  margin: 3rem;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 1rem;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.flex-end {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button-form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.list {
+  flex-direction: column;
+}
+
+.score-list {
+  border: 3px solid;
+}
+
+.score {
+  width: 100%;
+  font-size: 1.6rem;
+}
+
+.score:nth-of-type(even) {
+  background-color: #d3d3d3;
+  height: auto;
+}
+
+.add {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.refresh {
+  margin-bottom: 0.5rem;
+}
+
+.button-form button,
+.refresh {
+  cursor: pointer;
+  padding: 3px;
+  border: 2px solid black;
+  box-shadow: 3px 3px;
+  font-size: 1rem;
+  transition: transform 0.3s;
+}
+
+button:active {
+  font-size: 1.4rem;
+  transform: scale(0.95);
+}
+
+.form {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.form input {
+  width: 100%;
+  margin: 0.5rem auto;
+  height: 2rem;
+  padding-left: 1rem;
+  border: 2px solid black;
+  font-size: 1rem;
+}
