@@ -2,7 +2,7 @@
 
 ## Leaderboard
 
-> This is a project to set up Leaderboard.
+> This is a project to add personalized styles to Leaderboard.
 
 ## Built With
 
