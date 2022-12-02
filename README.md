@@ -168,7 +168,7 @@ To run the project, execute the following command:
 
 <!-- AUTHORS -->
 
-👤 **Jerome**
+👤 **Peter**
 
 - GitHub: [@PeteUgwu](https://github.com/PeteUgwu)
 - Twitter: [@Petrus4Charles](https://twitter.com/Petrus4Charles)
