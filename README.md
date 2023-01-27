@@ -57,7 +57,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Leaderboard Project] <a name="about-project"></a>
+# 📖 [Leaderboard Project] <a name="about-project">A JavaScript project for a simple Leaderboard list app. It allows a user to add score and name, and display it on board-like form</a>
 
 > Learning objectives for this project was to create a leaderboard, 
 and with an api that stores, score inputs
@@ -95,7 +95,7 @@ and with an api that stores, score inputs
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](http://localhost:8080/)
+- [Live Demo Link](https://peteugwu.github.io/Leaderboard-app/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,13 +166,13 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
 👤 **Peter**
 
 - GitHub: [@PeteUgwu](https://github.com/PeteUgwu)
 - Twitter: [@Petrus4Charles](https://twitter.com/Petrus4Charles)
-- LinkedIn: [/peter-ugwu-15a3a724b/](https://www.linkedin.com/in/peter-ugwu-15a3a724b/)
+- LinkedIn: [/peteugwu/](https://www.linkedin.com/in/peteugwu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
